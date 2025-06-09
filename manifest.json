@@ -1,6 +1,6 @@
 {
-  "name": "Deutsch-Game-App",
-  "short_name": "Deutsch-Game",
+  "name": "SAP-Begriffe-App",
+  "short_name": "SAP-Begriffe-Spiel",
   "start_url": "/",
   "display": "standalone",
   "icons": [
