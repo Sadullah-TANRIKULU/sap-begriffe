@@ -1,0 +1,13 @@
+{
+  "name": "Deutsch-Game-App",
+  "short_name": "Deutsch-Game",
+  "start_url": "/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./assets/sap.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
